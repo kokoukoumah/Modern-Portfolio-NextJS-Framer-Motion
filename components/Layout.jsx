@@ -5,7 +5,7 @@ import Header from "../components/Header";
 import Nav from "../components/Nav";
 import TopLeftImg from "../components/TopLeftImg";
 
-// setup font
+// setup font family
 const sora = Sora({
   subsets: ["latin"],
   variable: "--font-sora",
