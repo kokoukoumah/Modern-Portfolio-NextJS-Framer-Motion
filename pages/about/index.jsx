@@ -15,7 +15,6 @@ import {
   SiFramer,
   SiNextdotjs,
 } from "react-icons/si";
-
 import Avatar from "../../components/Avatar";
 import Circles from "../../components/Circles";
 import { fadeIn } from "../../variants";
