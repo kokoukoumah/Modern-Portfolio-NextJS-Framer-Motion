@@ -5,6 +5,7 @@ import Circles from "../../components/Circles";
 import ServiceSlider from "../../components/ServiceSlider";
 import { fadeIn } from "../../variants";
 
+
 export const serviceData = [];
 
 const Services = () => {
