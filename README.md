@@ -4,6 +4,25 @@
 
 ![Modern Portfolio using Next.js and Framer Motion](/.github/images/img_main.png "Modern Portfolio using Next.js and Framer Motion")
 
+This portfolio is ideal for full-stack developers, frontend specialists, or anyone in tech looking to leave a strong impression. With integrated animations powered by **Framer Motion**, dynamic particle effects via **tsParticles**, and a fully responsive layout, this project delivers a highly engaging user experience.
+
+Whether you're applying for jobs, freelancing, or building a personal brand, this template helps elevate your online presence.
+
+---
+
+## ✨ Key Features
+
+- ⚡ **Next.js 14** — Optimal performance, fast routing, and server-side rendering.
+- 🎞 **Framer Motion** — Smooth and modern page animations.
+- 🎨 **Tailwind CSS** + **tailwind-scrollbar** — Rapid custom styling and scrollbar design.
+- 🔢 **React CountUp** — Animated number counters for metrics or stats.
+- 🔧 **React Icons** — Scalable vector icons for all kinds of UI elements.
+- 🖼 **Swiper.js** — Touch-friendly and responsive carousels or slideshows.
+- 🌌 **3D Effects** & **tsParticles** — Interactive particle backgrounds for an immersive look.
+- 📱 **Fully Responsive** — Looks great on desktop, tablet, and mobile devices.
+- 🧩 **Modular Components** — Clean code structure for easy customization and maintenance.
+
+---
 
 Here is the folder structure of this app.
 
